@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <group title="page1">
+        <page config="samples/env/env.xml" title="page1">
+            <resource dir="file:///android_asset/samples/env" />
+        </page>
+    </group>
+
+</items>
